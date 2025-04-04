@@ -1,1 +1,1 @@
-<name>GitHub</name>
+<name></name>
